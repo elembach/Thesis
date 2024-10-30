@@ -97,5 +97,3 @@ for question in results:
         print("")
     elif question == "20M":
         print("")
-
-
